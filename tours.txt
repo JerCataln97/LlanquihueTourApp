@@ -1,0 +1,5 @@
+Sara Henriquez;Chef;Rutas Gastronómicas;Gastronomia;20000
+Antonio Caceres;Guia Nautico;Paseos Lacustres;Aventura;18000
+Miguel Marchant;Guia Cultural;Excursiones Culturales;Cultura;15000
+Josefa Soto;Guia Especializado;Tours Personalizados;Aventura;40000
+Arnoldo Cuevas;Guia Especializado;Tours Desafiantes;Aventura;30000
